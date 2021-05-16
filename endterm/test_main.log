@@ -1,0 +1,11 @@
+INFO -- New profile is created, ID: saule@gmail.com
+INFO -- New profile is created, ID: s_dosymbekova@kbtu.kz
+INFO -- 2021-04-27 18:54:45,573: Category object created, ID: Manga
+INFO -- 2021-05-15 06:13:21,868: CreditCard object created, ID: 5169493256789012
+INFO -- 2021-05-15 06:22:34,584: CreditCard object created, ID: 1111111111
+ERROR -- 2021-05-15 06:27:36,090: CreditCard object is not created, ID: {'customer': [ErrorDetail(string='This field must be unique.', code='unique')]}
+INFO -- 2021-05-15 06:33:30,112: Category object created, ID: AAA
+INFO -- 2021-05-15 06:57:31,712: Category object created, ID: AAA
+INFO -- New profile is created, ID: test@gmail.com
+INFO -- New profile is created, ID: test1@gmail.com
+INFO -- Category object created, ID: AAA
